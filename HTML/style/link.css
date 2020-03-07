@@ -1,0 +1,26 @@
+ol#nomor li a:visited{
+    color: white;
+}
+
+ol#huruf li a:visited{
+    color: inherit;
+}
+
+ol#nomor li:nth-child(even) a:hover{
+    font-size: 30px;
+    color: aqua;
+}
+
+ol#huruf li:nth-child(odd) a:hover{
+    font-size: 40px;
+    color: inherit;
+}
+
+body{
+    background-color: indigo;
+}
+
+p:first-of-type{
+    font-size: 50px;
+    color: orange;
+}

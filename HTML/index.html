@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Percobaan</title>
+</head><link rel="stylesheet" type="text/css" href="style/style.css">
+<body>
+<h1 align="middle">Belajar Membuat Table</h1>
+<table border="1">
+	<tr>
+		<td>NO</td>
+		<td>1</td>
+		<td>2</td>
+		<td>3</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>Nama</td>
+		<td>Nahrul Khayattullah</td>
+		<td>Heri Ryan muliadi</td>
+		<td>Emha Asqolani</td>
+		<td>Guruh Arofah</td>
+	</tr>
+	<tr>
+		<td>Alamat</td>
+		<td>Kebon Dewa</td>
+		<td>Paok Motong</td>
+		<td>Selong</td>
+		<td>Nyelak</td>
+	</tr>
+	<tr align="center">
+		<td colspan="5">Nama List Siswa</td>
+	</tr>
+</table>
+<br>
+<form>
+	<hr>
+	<table border="1">
+		<tr>
+			<td><label for="Nama">Nama</label></td>
+			<td><label for="Password">Password</label></td>
+			<td rowspan="3"><button type="Submit">Selesai</button></td>
+		</tr>
+		<tr>
+			<td><input type="text" name="nama"></td>
+			<td><input type="Password" name="Password"></td>
+		</tr>
+		<tr>
+			<td><label for="Laki-Laki">Laki-Laki</label></td>
+			<td><input type="Radio" id="Laki-Laki" name="JenisKelamin"></td>
+		</tr>
+		<tr>
+			<td><label for="Perempuan">Perempuan</label></td>
+			<td><input type="Radio" id="Perempuan" name="JenisKelamin"></td>
+			<td rowspan="3"><button type="reset">Ulangi</button></td>
+		</tr>
+		<tr>
+			<td colspan="2">
+				<select>
+					<option>Malaysia</option>
+					<option>Indonesia</option>
+					<option>Lombok</option>
+					<option>Sasak Tulen Sakti</option>
+				</select>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2"><textarea></textarea></td>
+		</tr>
+	</table>
+</form>
+</body>
+</html>

@@ -1,0 +1,48 @@
+Pemrograman mobile di nilai dari aplikasi yang sudah di publish pada playstore...
+nilai UTS di ambil dari APK yang sudah di buat..
+
+di harapkan punya device yang sudah siap di gunakan untuk praktik maupun ngoding..
+
+UTS -> Ada APK
+UAS -> Ada di Playstore
+
+Bahasa yang di reomendasikan oleh google..
+1.Kotlin
+
+tapi nahasa pemrograman yang di gunakan pada kelas ini bebas..
+bahkan bisa menggunakan HTML5, tujuannya yang penting ada APK yang di publish..
+
+Publish di Playstore butuh biaya sekitar 440k, bisa bayar menggunakan VCC di vccmurah.net
+akun yang di gunakan cukup 1 akun untuk satu kelas..
+
+Siapa yang di tugaskan nanti.? Gak tau!?
+
+Kapan di kumpulkan? bebas..
+--------------------------------------------------------------------------------------------
+Secara mainstream.. Silahkan Install Android studio..
+
+yaps boy.. ram 4gb aja gak cukup.. aduh bagemana ini.? mudahan dapat jalan keluar ya rabb..
+
+APP:
+1.Tampilan
+2.Logic
+
+-Tampilan
+.XML
+
+-Logic
+.Java dll
+
+HTML dan XML masih sama dan mudah di pelajari.. sedangkan yang sulit sebenarnya adalah logicnya
+alias Codingnya..
+
+Untuk Minggu depan.. Usahakan Install Android Studio :(
+------------------------------
+Day 1 after searching on google..
+
+Silahkan pelajari flutter, akan sangat membantu, dia mamiliki bahasanya sendiri bernama dart
+namun bisa juga di kombinasikan dengan bahasa yang lain, katanya sih..
+
+btw sekarang lagi nyoba fitur ready boost punya windows, yg bikin USB jadi pembantu RAM
+apakah benar2 bisa di gunakan, kita liat aja nanti, klo dia kena error, atau dapet nge lag
+berarti gak benar2 terpakai, ini usb agak terasa hawa Panas, jd agak khawatir...

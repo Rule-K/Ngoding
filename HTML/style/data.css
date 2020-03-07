@@ -1,0 +1,44 @@
+
+.tabel table{
+    display: block;
+    width: 500px;
+    border: 2px;
+}
+tr:first-of-type td:last-child{
+    background-color: rgb(226, 215, 55);
+}
+
+body{
+    background: url(gambar/gambar1.jpg);
+}
+
+.nahrul{
+    color: white;
+    background-color: darkgreen;
+    text-align: center;
+    display: inline;
+}
+
+.asqolani{
+    color: white;
+    background-color: darkblue;
+    text-align: center;
+    display: inline;
+
+}
+
+h1{
+    color: darkred;
+    font-family: ubuntu;
+    background-color: white;
+}
+
+.nama{
+    font-family: ubuntu;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.data1{
+    background-color: darkgoldenrod;
+}
